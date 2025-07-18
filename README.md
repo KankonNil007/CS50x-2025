@@ -3,65 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>CS50x-2025 by Kankon Mondal</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f9f9f9;
-      color: #222;
-      padding: 2rem;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #0072c6;
-    }
-    ul {
-      margin-left: 1rem;
-    }
-    pre {
-      background: #f4f4f4;
-      border-left: 5px solid #0072c6;
-      padding: 1rem;
-      overflow-x: auto;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    .note {
-      background-color: #e7f3ff;
-      border-left: 5px solid #0072c6;
-      padding: 1rem;
-      margin-top: 2rem;
-      font-style: italic;
-    }
-    footer {
-      margin-top: 3rem;
-      border-top: 1px solid #ccc;
-      padding-top: 1rem;
-      font-size: 0.9rem;
-      color: #777;
-    }
-    a {
-      color: #0072c6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1rem;
-    }
-    th, td {
-      padding: 0.5rem;
-      border-bottom: 1px solid #ddd;
-      text-align: left;
-    }
-    th {
-      background-color: #f0f0f0;
-    }
-  </style>
 </head>
 <body>
 
