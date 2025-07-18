@@ -72,7 +72,7 @@
   <div class="section">
     <h2>🛠️ Tools Used</h2>
     <ul>
-      <li><a href="https://cs50.dev" target="_blank">CS50 IDE (cs50.dev)</a> – Online development environment</li>
+      <li><a href="https://code.visualstudio.com/" target="_blank">VS Code</a> – Open Source Code Editor</li>
       <li><a href="https://edx.org" target="_blank">edX Premium</a> – Verified certificate enrollment</li>
       <li><a href="https://github.com" target="_blank">GitHub</a> – Version control and documentation</li>
     </ul>
