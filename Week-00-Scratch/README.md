@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CS50x Week 0 – Scratch Project</title>
 </head>
 <body>
 
