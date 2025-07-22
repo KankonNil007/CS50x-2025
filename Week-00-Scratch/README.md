@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CS50x Week 0 – Scratch Project</title>
 </head>
 <body>
 
@@ -89,8 +88,8 @@ change y by (speed)
   <ul>
     <li>📺 <a href="https://cs50.harvard.edu/x/2025/weeks/0/" target="_blank">Lecture Video</a></li>
     <li>📝 <a href="https://cs50.harvard.edu/x/2025/notes/0/" target="_blank">Lecture Notes</a></li>
-    <li>📊 <a href="https://cs50.harvard.edu/x/2025/slides/0/" target="_blank">Slides (PDF)</a></li>
-    <li>💾 <a href="https://cs50.harvard.edu/x/2025/code/0/" target="_blank">Source Code Examples</a></li>
+    <li>📊 <a href="https://cdn.cs50.net/2024/fall/lectures/0/lecture0.pdf" target="_blank">Slides (PDF)</a></li>
+    <li>💾 <a href="https://cdn.cs50.net/2024/fall/lectures/0/src0.zip" target="_blank">Source Code Examples</a></li>
   </ul>
 
   <hr>
