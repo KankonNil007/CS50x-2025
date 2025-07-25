@@ -1,4 +1,4 @@
-// #include <cs50.h>
+#include <cs50.h>
 #include <stdio.h>
 
 int main(void)
@@ -6,9 +6,7 @@ int main(void)
     int money;
     do
     {
-        // money = get_int("Change owed: ");
-        printf("Change owed: ");
-        scanf("%i", &money);
+        money = get_int("Change owed: ");
     }
     while (money < 0);
 
