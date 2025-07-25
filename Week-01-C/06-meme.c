@@ -1,13 +1,14 @@
 #include <stdio.h>
+#include <cs50.h>
 
 int main(void) {
     long dollars = 1;
 
-    while (1 < 5)
+    while (true)
     {
-        char confirmation;
         printf("You have $%li dollars. Do you want to double it and give it to the next person? ", dollars);
-        scanf(" %c", &confirmation);
+        char confirmation = get_char("");
+
         if (confirmation == 'y') {
             dollars *= 2;
         }
@@ -16,6 +17,6 @@ int main(void) {
         }
     }
 
-    printf("You have $%li dollars", dollars);
+    printf("You have $%li dollars\n", dollars);
     return 0;
 }

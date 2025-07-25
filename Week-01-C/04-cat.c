@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <cs50.h>
 
 void meowFor(int n);
 // void meowWhile(int n);
@@ -21,8 +22,7 @@ int get_pos_num(void) {
     int n;
 
     do {
-        printf("Enter a Number: ");
-        scanf("%i", &n);
+        n = get_int("Enter a Number: ");
     } while (n <= 0);
 
     return n;

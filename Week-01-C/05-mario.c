@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <cs50.h>
 
 void rows(int n);
 void print_rows(int bricks);
@@ -12,8 +13,7 @@ int main(void) {
     int height;
 
     do {
-        printf("Input Pyramid Height: ");
-        scanf("%i", &height);
+        height = get_int("Input Pyramid Height: ");
     } while (height <= 0);
 
     for (int i = 0; i <= height; i++)
