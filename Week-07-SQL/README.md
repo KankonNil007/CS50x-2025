@@ -33,12 +33,12 @@ To run the programs:
 Week 7 was a fascinating dive into the world of databases! 🥳 Learning SQL felt like unlocking a superpower for handling real-world data—querying the Fiftyville database to crack a mystery case was incredibly engaging and taught me the power of relational data. Mastering JOINs and aggregates boosted my ability to think logically about data relationships. These exercises made me appreciate how databases power everything from apps to analytics.
 
 ## 📚 Resources
-- 📺 [Lecture Video](https://video.cs50.io/VF21g3sTw5s)
+- 📺 [Lecture Video](https://video.cs50.io/ZA25WHO62ZA?screen=HI8um-uyJzI)
 - 📝 [Lecture Notes](https://cs50.harvard.edu/x/2025/notes/7/)
 - 📊 [Slides (PDF)](https://cdn.cs50.net/2024/fall/lectures/7/lecture7.pdf)
 - 💾 [Source Code Examples](https://cdn.cs50.net/2024/fall/lectures/7/src7.zip)
 
-- `There is no movies.db file in the 2nd Problem Set. Here is the externel Link to [movies.db](https://drive.google.com/file/d/1zfDFwFnrs4FtV9k2vX8GLIe7OGq1eUS8/view?usp=drive_link)`
+- `There is no movies.db file in the 2nd Problem Set. Here is the externel Link to `[movies.db](https://drive.google.com/file/d/1zfDFwFnrs4FtV9k2vX8GLIe7OGq1eUS8/view?usp=drive_link)
 
 ## 📂 Directory Structure
 Here’s how the repository is organized:
