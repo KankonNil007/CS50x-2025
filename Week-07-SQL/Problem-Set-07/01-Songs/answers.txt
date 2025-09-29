@@ -1,0 +1,5 @@
+If I calculated an audio aura just by averaging energy, valence, and danceability of the listener’s top-100 songs, I’d describe their mood as whatever those averages map to (e.g., energetic and upbeat if values are high).
+
+But this isn’t very representative, since averages hide variety—a listener could split time between sad ballads and party tracks, and the mean would wrongly suggest a neutral mood.
+
+A better way would be to weight songs by play count or listening time and then cluster the songs into groups of moods, reporting the top two clusters as the aura. Adding more features (like tempo, acousticness, or lyrics sentiment) would make the aura even more accurate.
