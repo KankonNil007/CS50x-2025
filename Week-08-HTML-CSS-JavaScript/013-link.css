@@ -1,0 +1,12 @@
+.HV {
+    color: red;
+    text-decoration: none;
+}
+
+.HV:hover {
+    text-decoration: underline;
+}
+
+.YL {
+    color: green;
+}
